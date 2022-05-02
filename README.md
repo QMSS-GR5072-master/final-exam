@@ -48,8 +48,8 @@ Feel free to refer to any R scripts provided throughout the course to answer the
 
 12. [`10 pts`] Create a new data frame that includes two columns from your state data denoting state names and violent crimes.  Spread the state names to 50 unique columns with a single row that includes the violent crime data per state.  Print the first five columns of the new dataset.
 
-13. [`10 pts`] Take the dataset from question 13 and use a function from the apply family of functions to return a named list with each name denoting a state and each value per state indicating the square root of the value for violent crimes.
+13. [`10 pts`] Take the dataset from question 12 and use a function from the apply family of functions to return a named list with each name denoting a state and each value per state indicating the square root of the value for violent crimes.
 
-14. [`5 pts`] Subset the list you created in question 14 to extract values for Texas and New York.
+14. [`5 pts`] Subset the list you created in question 13 to extract values for Texas and New York.
 
 **That's it!  Once you submit the link to this repo on Canvas you are done!**
